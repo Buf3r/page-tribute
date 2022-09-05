@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  margin: 0% 0% 0% 0%;
+  
+}
+
+#image{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+#main{
+  background-color: rgb(152, 213, 213);
+  
+}
+#title{
+  color: rgb(62, 162, 187);
+  display: block;
+  margin: auto;
+  font-family: lobster ;
+  font-size: 400%;
+  background-color: rgb(240, 241, 238);
+}
